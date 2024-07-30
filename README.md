@@ -12,7 +12,7 @@
 
 - Created - 2024-08-01
 
-- Technologies Used - Html5 , css3 ,Scss ,js 
+- Technologies Used - Html5 , Ract ,tailwind ,js 
 
 - Hooks Used : useState 
 
