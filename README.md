@@ -8,17 +8,6 @@
 
 
 
-![h2](https://github.com/user-attachments/assets/e81c2da0-f742-47cb-84f9-a69d4b3da79e)
-
-
-
-![h3](https://github.com/user-attachments/assets/a729b810-0b59-478e-9253-839529e086d6)
-
-
-
-  
- 
-
 - 👩‍🎓 Developed by nasim pirghollo
 
 - Created - 2024-08-01
